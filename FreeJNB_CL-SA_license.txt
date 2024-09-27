@@ -82,16 +82,16 @@ Section 1 -- Definitions.
 
   c. CL-SA Compatible License means
 		
-	   1. This license, or a later version of this license.
+	1. This license, or a later version of this license.
 	   
-	   2. Ported versions of this license (if any), of the same or a 
-	      later version.
+	2. Ported versions of this license (if any), of the same or a 
+		later version.
 
-       3. The Free Art License 1.3
-	 
-	   4. A license listed at brigdon.info/compatiblelicenses, approved
-	      by FreeJNB as essentially the equivalent of this Public
-		  License.
+	3. The Free Art License 1.3
+ 
+	4. A license listed at brigdon.info/compatiblelicenses, approved
+		by FreeJNB as essentially the equivalent of this Public
+		License.
 
   d. Copyright and Similar Rights means copyright and/or similar rights
      closely related to copyright including, without limitation,
